@@ -1,5 +1,5 @@
 
-# Hi! 👋 I'm Daniel  🎸 
+# Hi! 👋 I'm Daniel        🎸 
 ## 🎵🎶🎧 Welcome to the sound of innovation!  🎹
 
 I'm a Full-Stack developer with a twist - I used to be a sound engineer. Now, I'm blending my love for music with my passion for coding to create seamless digital experiences. Let's make some noise together! 🎵🎶🎧 
@@ -37,5 +37,5 @@ I'm a Full-Stack developer with a twist - I used to be a sound engineer. Now, I'
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-## Contact
+## 🎤  Contact
 
