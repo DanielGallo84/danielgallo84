@@ -13,7 +13,7 @@ I'm a Full-Stack developer with a twist - I used to be a sound engineer. Now, I'
 -  Problem solving skills, and love for design.
 -  CAE (C1). Cambridge University. Native Spanish and Basque.
 
-## 🎷 Skills
+## 🎷 Current stack
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
