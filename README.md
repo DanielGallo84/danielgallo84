@@ -5,7 +5,6 @@
 I'm a Full-Stack developer with a twist - I used to be a sound engineer. Now, I'm blending my love for music with my passion for coding to create seamless digital experiences. Let's make some noise together! 🎵🎶🎧 
 
 
-![bed8450710fbb4366b7d392822ccc5e2](https://github.com/DanielGallo84/danielgallo84/assets/146724591/6e3eb37e-a302-4618-b6df-8b7a2cca7696)
 
 ## 🎸 About Me
 -  Currently studyng Full Stack at Factoria F5. 
